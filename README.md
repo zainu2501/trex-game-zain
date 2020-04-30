@@ -1,2 +1,2 @@
-# trex-game-zain
-trex game zain
+# trex
+Chrome's trex game created using p5.play
